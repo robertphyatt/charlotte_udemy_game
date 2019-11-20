@@ -18,7 +18,7 @@ public class NumberWizard : MonoBehaviour
         min = 1;
         guess = 500;
 
-        Debug.Log("Welcome to number wizard");
+        Debug.Log("Welcome to my number wizard");
         Debug.Log("Pick a number, don't tell me what it is...");
         Debug.Log("The highest number you can choose is: " + max);
         Debug.Log("The lowest number you can choose is: " + min);
