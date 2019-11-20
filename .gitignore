@@ -25,3 +25,9 @@ intro_setup/number wizard/Number Wizard Console/Library/ScriptMapper
 intro_setup/number wizard/Number Wizard Console/Library/expandedItems
 intro_setup/number wizard/Number Wizard Console/Library/AnnotationManager
 intro_setup/number wizard/Number Wizard Console/Temp/
+intro_setup/number wizard/text 101/.vs/
+intro_setup/number wizard/text 101/Library/metadata/
+intro_setup/number wizard/text 101/Library/PackageCache/
+intro_setup/number wizard/text 101/obj/Debug/
+*.log
+intro_setup/number wizard/text 101/Temp/
