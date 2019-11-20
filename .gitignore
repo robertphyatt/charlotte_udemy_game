@@ -13,3 +13,14 @@ intro_setup/Hello World/Library/ShaderCache/
 *.psd
 *.bundle
 intro_setup/Hello World/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins.meta
+intro_setup/number wizard/Number Wizard Console/Library/metadata/
+*.mdb
+*.bin
+intro_setup/number wizard/Number Wizard Console/Temp/UnityLockfile
+intro_setup/number wizard/Number Wizard Console/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/Android/UnityAds.aar
+intro_setup/number wizard/Number Wizard Console/Library/PackageCache/
+intro_setup/number wizard/Number Wizard Console/Library/assetDatabase3
+*.db
+intro_setup/number wizard/Number Wizard Console/Library/ScriptMapper
+intro_setup/number wizard/Number Wizard Console/Library/expandedItems
+intro_setup/number wizard/Number Wizard Console/Library/AnnotationManager
