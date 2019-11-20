@@ -1,2 +1,2 @@
-# charlotte_udemy_game
-Charlotte's Work on Udemy Games
+# udemy_game
+Work on the Udemy unity game tutorial: https://www.udemy.com/course/unitycourse/
