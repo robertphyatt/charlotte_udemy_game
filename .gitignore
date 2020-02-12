@@ -31,3 +31,29 @@ intro_setup/number wizard/text 101/Library/PackageCache/
 intro_setup/number wizard/text 101/obj/Debug/
 *.log
 intro_setup/number wizard/text 101/Temp/
+*.meta
+*.unity
+intro_setup/number wizard/Block Breaker/Assets/
+intro_setup/number wizard/Block Breaker/Library/
+intro_setup/number wizard/Block Breaker/Packages/manifest.json
+intro_setup/number wizard/Block Breaker/ProjectSettings/ProjectVersion.txt
+intro_setup/number wizard/Block Breaker/Temp/UnityLockfile
+*.dwlt
+*.csproj
+*.sln
+intro_setup/number wizard/Number wizard UI/.vs/
+intro_setup/number wizard/Number wizard UI/Assets/Font/WIZARDRY.TTF
+intro_setup/number wizard/Number wizard UI/Assets/Scenes/images.png
+intro_setup/number wizard/Number wizard UI/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader
+intro_setup/number wizard/Number wizard UI/Assets/
+intro_setup/number wizard/Number wizard UI/Library/
+intro_setup/number wizard/Number wizard UI/obj/
+intro_setup/number wizard/Number wizard UI/Packages/manifest.json
+intro_setup/number wizard/Number wizard UI/ProjectSettings/ProjectVersion.txt
+intro_setup/number wizard/Text101/.vs/
+intro_setup/number wizard/Text101/Assets/
+intro_setup/number wizard/text 101/Library/
+intro_setup/number wizard/Text101/Library/
+intro_setup/number wizard/Text101/obj/
+intro_setup/number wizard/Text101/Packages/manifest.json
+intro_setup/number wizard/Text101/ProjectSettings/ProjectVersion.txt
